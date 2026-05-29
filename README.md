@@ -1,13 +1,4 @@
-# IaC Automation Proof
 
-This project demonstrates the ability to automate infrastructure using industry-standard infrastructure code tool (Terraform) with a modular approach.
-
-## What This Proves
-- Proficiency with Terraform as the industry-standard IaC tool
-- Ability to break down infrastructure into reusable, maintainable modules
-- Understanding of resource interconnection and least-privilege security
-- Experience with environment-agnostic infrastructure design
-- Knowledge of Terraform workflows: init, validate, plan, apply, destroy
 
 ## Project Overview
 Creates a three-tier web application on AWS using Terraform modules:
@@ -54,4 +45,3 @@ terraform destroy
 - **Application**: Simple HTML web server
 
 ---
-*Demonstrates expertise required for DevOps Engineer, Cloud Engineer, and Infrastructure Automation Specialist roles.*
